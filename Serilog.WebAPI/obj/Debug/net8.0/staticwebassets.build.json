@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "HDP/SEtygoLEk4mPZXKFJEF70VxdtpgceLEfb684rR8=",
+  "Source": "Serilog.WebAPI",
+  "BasePath": "_content/Serilog.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "gbuHt2LxVvaS0OCU++dX7ezuFiu4Ca+H+W9gyRtKxHo=",
+  "Source": "Serilog.WebAPI",
+  "BasePath": "_content/Serilog.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
